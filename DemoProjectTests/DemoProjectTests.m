@@ -25,6 +25,7 @@
     // This is an example of a functional test case.
     // Use XCTAssert and related functions to verify your tests produce the correct results.
     NSLog(@"APP TESTING STARTED SUCCESSFULLY.....");
+    NSLog(@"APP UI TESTING STARTED SUCCESSFULLY.....");
 }
 
 - (void)testPerformanceExample {
